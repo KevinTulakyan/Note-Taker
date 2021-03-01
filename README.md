@@ -1,6 +1,6 @@
 # Note Taker 
 - Built for creating reminders of tasks that need to be completed
-- Used HTML, CSS and JavaScript, Bootstrap, Node
+- Used HTML, CSS and JavaScript, Heroku, Node
 
 ## Deployed Page 
 https://note-taker-reminder.herokuapp.com/
